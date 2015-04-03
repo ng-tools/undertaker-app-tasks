@@ -1,3 +1,4 @@
+
 # undertaker-app-tasks [![Project Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat)](https://github.com/ng-tools/undertaker-app-tasks)
 
 Bundle of [undertaker](https://github.com/phated/undertaker) application tasks, packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
@@ -13,6 +14,16 @@ In your ng-factory powered project:
 $ npm install undertaker-app-tasks --save-dev
 ```
 
+## Tasks
+
+```bash
+$ tree -L 1 lib/tasks
+lib/tasks
+├── clean.js
+├── serve.js
+├── views.js
+└── watch.js
+```
 
 ## License
 
