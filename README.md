@@ -1,14 +1,20 @@
-# undertaker-app-tasks
+# undertaker-app-tasks [![Project Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat)](https://github.com/ng-tools/undertaker-app-tasks)
 
-> Base application tasks packaged in undertaker registries to be loaded by ng-factory
+Bundle of [undertaker](https://github.com/phated/undertaker) application tasks.
+
+Tasks are packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
+
+This module exposes a `{tasks: [registries...], index: registry}` interface to be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory)
+
 
 ## Installation
 
 In your ng-factory powered project:
 
 ```bash
-$ npm install undertaker-app-tasks --save
+$ npm install undertaker-app-tasks --save-dev
 ```
+
 
 ## License
 
