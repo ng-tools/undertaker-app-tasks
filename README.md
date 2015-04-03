@@ -3,7 +3,7 @@
 
 Bundle of [undertaker](https://github.com/phated/undertaker) application tasks, packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
 
-This module exposes a `{tasks: [registries...], index: registry}` interface that shall be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory)
+This module exposes a `{tasks: [Registry...], index: Registry, defaults: Object}` interface that shall be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory)
 
 
 ## Installation
