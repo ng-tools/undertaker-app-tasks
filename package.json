@@ -1,0 +1,27 @@
+{
+  "name": "undertaker-app-tasks",
+  "version": "0.2.0",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "browser-sync": "^2.5.0",
+    "chalk": "^1.0.0",
+    "del": "^1.1.1",
+    "gulp-ng-channels": "^0.5.3",
+    "lodash": "^3.6.0",
+    "merge-stream": "^0.1.7",
+    "require-dir": "^0.3.0",
+    "undertaker-registry": "0.0.2",
+    "vinyl-fs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Olivier Louvignes",
+    "email": "olivier@mg-crea.com",
+    "url": "https://github.com/mgcrea"
+  },
+  "license": "MIT"
+}
