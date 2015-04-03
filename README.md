@@ -1,10 +1,8 @@
 # undertaker-app-tasks [![Project Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat)](https://github.com/ng-tools/undertaker-app-tasks)
 
-Bundle of [undertaker](https://github.com/phated/undertaker) application tasks.
+Bundle of [undertaker](https://github.com/phated/undertaker) application tasks, packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
 
-Tasks are packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
-
-This module exposes a `{tasks: [registries...], index: registry}` interface to be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory)
+This module exposes a `{tasks: [registries...], index: registry}` interface that shall be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory)
 
 
 ## Installation
