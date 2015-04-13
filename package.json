@@ -1,8 +1,17 @@
 {
   "name": "undertaker-app-tasks",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "",
   "main": "lib/index.js",
+  "author": {
+    "name": "Olivier Louvignes",
+    "email": "olivier@mg-crea.com",
+    "url": "https://github.com/mgcrea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ng-tools/undertaker-app-tasks.git"
+  },
   "dependencies": {
     "browser-sync": "^2.5.3",
     "chalk": "^1.0.0",
@@ -17,11 +26,6 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": {
-    "name": "Olivier Louvignes",
-    "email": "olivier@mg-crea.com",
-    "url": "https://github.com/mgcrea"
   },
   "license": "MIT"
 }
