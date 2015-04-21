@@ -5,14 +5,15 @@ Bundle of generic [undertaker](https://github.com/phated/undertaker) application
 This module exposes a `{tasks: [Registry...], index: Registry, defaults: Object}` interface that shall be auto-loaded by [ng-factory](https://github.com/ng-tools/ng-factory), it requires a `channels-factory` and defaults to [factory-angular-channels](https://github.com/ng-tools/factory-angular-channels).
 
 
-## Installation
+## Getting Started
 
-In your ng-factory powered project:
+The easiest way to get you started with [ng-factory](https://github.com/ng-tools/ng-factory) is to use the dedicated [generator-ng-factory](https://github.com/ng-tools/generator-ng-factory) that will setup everything for you.
+
+Otherwise, for a manual/custom setup, just install the module and manually register the registries to a take instance with `taker.registry()`
 
 ```bash
-$ npm install undertaker-app-tasks --save-dev
+$ npm i undertaker-app-tasks --save-dev
 ```
-
 
 ## Communication
 
