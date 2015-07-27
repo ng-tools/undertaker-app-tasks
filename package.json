@@ -20,6 +20,7 @@
     "lodash": "^3.10.0",
     "merge-stream": "^0.1.8",
     "resolve-require": "^0.2.0",
+    "stream-combiner2": "^1.0.2",
     "undertaker-registry": "0.0.3",
     "vinyl-fs": "^0.3.13"
   },
