@@ -13,17 +13,18 @@
     "url": "https://github.com/ng-tools/undertaker-app-tasks.git"
   },
   "dependencies": {
-    "browser-sync": "^2.8.0",
-    "chalk": "^1.1.0",
-    "connect-modrewrite": "^0.8.1",
-    "del": "^1.2.0",
-    "export-files": "^2.0.1",
-    "lodash": "^3.10.0",
-    "merge-stream": "^0.1.8",
+    "browser-sync": "^2.9.7",
+    "chalk": "^1.1.1",
+    "connect-modrewrite": "^0.8.2",
+    "del": "^2.0.2",
+    "export-files": "^2.1.0",
+    "gulp-watch": "^4.3.5",
+    "lodash": "^3.10.1",
+    "merge-stream": "^1.0.0",
     "resolve-require": "^0.2.0",
     "stream-combiner2": "^1.0.2",
     "undertaker-registry": "0.0.3",
-    "vinyl-fs": "^1.0.0"
+    "vinyl-fs": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
