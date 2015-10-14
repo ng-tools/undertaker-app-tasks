@@ -13,7 +13,7 @@
     "url": "https://github.com/ng-tools/undertaker-app-tasks.git"
   },
   "dependencies": {
-    "browser-sync": "^2.9.7",
+    "browser-sync": "^2.9.11",
     "chalk": "^1.1.1",
     "connect-modrewrite": "^0.8.2",
     "del": "^2.0.2",
