@@ -22,9 +22,9 @@
     "lodash": "^3.10.1",
     "merge-stream": "^1.0.0",
     "resolve-require": "^0.2.0",
-    "stream-combiner2": "^1.0.2",
+    "stream-combiner2": "^1.1.1",
     "undertaker-registry": "0.0.3",
-    "vinyl-fs": "^2.1.1"
+    "vinyl-fs": "^2.2.0"
   },
   "devDependencies": {},
   "scripts": {
