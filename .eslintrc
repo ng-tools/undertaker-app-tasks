@@ -4,6 +4,7 @@
     "strict": [2, "global"],
     "comma-dangle": [2, "never"],
     "func-names": 0,
+    "padded-blocks": 0,
     "no-use-before-define": [2, "nofunc"],
     "no-unused-vars": 1,
     "vars-on-top": 1,
