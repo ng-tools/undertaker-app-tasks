@@ -26,7 +26,10 @@
     "undertaker-registry": "0.0.3",
     "vinyl-fs": "^2.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^1.7.1",
+    "eslint-config-airbnb": "^0.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
