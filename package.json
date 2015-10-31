@@ -25,7 +25,7 @@
     "vinyl-fs": "^2.2.0"
   },
   "devDependencies": {
-    "eslint": "^1.7.1",
+    "eslint": "^1.8.0",
     "eslint-config-airbnb": "^0.1.0"
   },
   "scripts": {
